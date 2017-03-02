@@ -1,0 +1,30 @@
+.Lblock
+{
+
+	float: left;
+	display: inline-block;
+	width:50%;
+}
+
+.Rblock
+{
+	float:right;
+	display: inline-block;
+	width:50%;
+}
+	
+h4
+{
+
+
+}
+
+
+
+@media screen and (min-width: 500px)
+{
+	.subpic
+	{
+		
+	}
+}
