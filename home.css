@@ -1,3 +1,31 @@
+
+nav
+{
+	width:70%;
+	background-color: #fff8e2;
+	text-align: center;
+	position:fixed;
+	display: inline-block;
+}
+
+.navli
+{
+	margin-left: 100px;
+	color: black;
+}
+
+.navli:hover
+{
+	color: red;
+}
+
+
+#details
+{
+	padding-top: 90px;
+}
+
+
 .Lblock
 {
 
@@ -21,10 +49,17 @@ h4
 
 
 
-@media screen and (min-width: 500px)
+@media screen and (max-width: 500px)
 {
-	.subpic
+	.Lblock
 	{
-		
+		float:none;
+		width:100%;
+	}
+
+	.Rblock
+	{
+		float:none;
+		width:100%;
 	}
 }
