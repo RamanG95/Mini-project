@@ -46,6 +46,15 @@ nav
 	width:50%;
 }
 
+#games
+{
+	border: 10px #59427f;
+}
+
+#comics
+{
+	border:10px #8d9631;
+}
 
 
 @media screen and (max-width: 500px)
