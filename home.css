@@ -1,6 +1,6 @@
 body
 {
-	background-color: black;
+	background: -webkit-linear-gradient(white, #9d8fb5);
 }
 
 nav
@@ -39,7 +39,6 @@ nav
 .sectitle
 {
 	padding-top: 90px;
-	color:white;
 	font-family: verdana;
 }
 
