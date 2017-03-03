@@ -6,6 +6,7 @@ nav
 	text-align: center;
 	position:fixed;
 	display: inline-block;
+	top:0;
 }
 
 .navli
@@ -23,6 +24,8 @@ nav
 #details
 {
 	padding-top: 90px;
+	border:10px solid rgba(20,20,30,0.3);
+	margin-top: 60px;
 }
 
 .pgheader
@@ -45,17 +48,6 @@ nav
 	display: inline-block;
 	width:50%;
 }
-
-#games
-{
-	border: 10px #59427f;
-}
-
-#comics
-{
-	border:10px #8d9631;
-}
-
 
 @media screen and (max-width: 500px)
 {
