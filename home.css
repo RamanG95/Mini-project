@@ -20,6 +20,12 @@ nav
 	color: red;
 }
 
+#sideborder
+{
+	margin:20px 10px;
+	background-image: "nebula.jpg";
+}
+
 #hmimg
 {
 	width:55%;
@@ -70,5 +76,11 @@ nav
 	{
 		margin-left: 20px;
 
+	}
+
+	#hmimg
+	{
+		width:80%;
+		margin-left:10%;
 	}
 }
