@@ -20,10 +20,13 @@ nav
 	color: red;
 }
 
-
+#hmimg
+{
+	width:55%;
+	margin-left:20%;
+}
 #details
 {
-	padding-top: 90px;
 	border:10px solid rgba(20,20,30,0.3);
 	margin-top: 60px;
 }
