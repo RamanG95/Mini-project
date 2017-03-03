@@ -1,7 +1,11 @@
+body
+{
+	background-color: black;
+}
 
 nav
 {
-	width:70%;
+	width:100%;
 	background-color: #fff8e2;
 	text-align: center;
 	position:fixed;
@@ -20,11 +24,6 @@ nav
 	color: red;
 }
 
-#sideborder
-{
-	padding:60px;
-}
-
 #hmimg
 {
 	width:55%;
@@ -34,6 +33,7 @@ nav
 {
 	border:10px solid rgba(20,20,30,0.3);
 	margin-top: 60px;
+	background-color: white;
 }
 
 .pgheader
@@ -48,6 +48,7 @@ nav
 	float: left;
 	display: inline-block;
 	width:50%;
+	background-color: white;
 }
 
 .Rblock
@@ -55,6 +56,7 @@ nav
 	float:right;
 	display: inline-block;
 	width:50%;
+	background-color: white;
 }
 
 .subpic
