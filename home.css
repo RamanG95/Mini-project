@@ -58,6 +58,12 @@ nav
 	width:50%;
 }
 
+.subpic
+{
+	width:40%;
+	height:300px;
+}
+
 @media screen and (max-width: 500px)
 {
 	.Lblock
@@ -82,5 +88,11 @@ nav
 	{
 		width:80%;
 		margin-left:10%;
+	}
+
+	.subpic
+	{
+		width:80%;
+		float:center;
 	}
 }
