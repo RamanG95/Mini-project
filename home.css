@@ -22,8 +22,7 @@ nav
 
 #sideborder
 {
-	margin:20px 10px;
-	background-image: "nebula.jpg";
+	padding:60px;
 }
 
 #hmimg
@@ -94,5 +93,10 @@ nav
 	{
 		width:80%;
 		float:center;
+	}
+
+	#sideborder
+	{
+		padding:0px;
 	}
 }
